@@ -1,2 +1,2 @@
-# Aplica-o
+
 Calculadora C#
